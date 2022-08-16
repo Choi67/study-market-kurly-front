@@ -204,7 +204,7 @@
 
 <script>
 export default {
-  name: "MainPage"
+  name: "join"
 }
 </script>
 
